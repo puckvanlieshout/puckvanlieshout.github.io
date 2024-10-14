@@ -151,7 +151,7 @@ a {
 }
 
 #miscellaneous-banner {
-	background-image: url("banners/turtle_banner.png");
+	background-image: url("banners/turtle_banner.PNG");
 	text-shadow: 1px 1px 5px var(--silver), -1px -1px 5px var(--silver);
 }
 
