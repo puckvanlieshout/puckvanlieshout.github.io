@@ -365,6 +365,15 @@ a {
 	margin-top: 0px;
 }
 
+.tok {
+	width: 40%;
+	height: auto;
+	margin-left: 2.5%;
+	margin-right:2.5%;
+	margin-bottom: 2.5%;
+	border-radius: 5px;
+}
+
 #hi {
 	min-width: 300px;
 	width: 80%;
@@ -408,5 +417,18 @@ a {
 	}
 	.banner-container {
 		height: 170px;
+	}
+	#forest {
+		width:100%;
+		height: auto;
+		margin-left: 4%;
+		border-radius:5px;
+	}
+	
+	#earmuphs {
+		width:100%;
+		height: auto;
+		margin-right: 4%;
+		border-radius:5px;
 	}
 }
